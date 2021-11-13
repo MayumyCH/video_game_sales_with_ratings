@@ -6,9 +6,9 @@ _En este proyecto se propone el análisis de la data proporcionada por Kaggle  e
 
 ## 🔗 Link importantes 
 
-1. [Data del proyecto - Kaggle](https://www.datosabiertos.gob.pe/dataset/minsa-salud-mental)
-2. [Notebook del proyecto ](https://github.com/MayumyCH/mental_health_analysis_with_python/blob/main/proyecto_notebooks.ipynb)
-2. [Presentacion del proyecto - Pdf](https://github.com/MayumyCH/mental_health_analysis_with_python/blob/main/proyecto_notebooks.ipynb)
+1. [Data del proyecto - Kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
+2. [Notebook del proyecto ](https://github.com/MayumyCH/video_game_sales_with_ratings/blob/main/notebook_videogames.ipynb)
+2. [Presentacion del proyecto - Pdf](https://github.com/MayumyCH/video_game_sales_with_ratings/blob/main/resources/Clausura_challenge_20_21.pdf)
 
 ---
 ⌨️ con ❤️ por  [Mayumy CH ☠️](https://github.com/MayumyCH) 
